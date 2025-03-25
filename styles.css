@@ -1,0 +1,13 @@
+svg {
+    width: 825px;
+    height: 500px;
+}
+
+rect {
+    fill: blue;
+    width: 2.3px;
+}
+
+rect:hover {
+    fill: white;
+}
